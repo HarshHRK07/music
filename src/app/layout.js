@@ -17,11 +17,11 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Hayasaka",
+  title: "Demo",
   description: "Music streaming app",
   image:
     "https://res.cloudinary.com/dbr73rpz9/image/upload/v1690380865/images/logo-color_noktgr.png",
-  url: "https://hayasaka.vercel.app",
+  url: "Demo.com",
   type: "website",
   icons: [{ rel: "icon", url: Favicon.src }],
   site_name: "Hayasaka",
